@@ -1,0 +1,44 @@
+.body {
+  overflow-y: scroll;
+}
+
+.main-title {
+  font-family: TTTravelsNextEducationalBold;
+  font-size: 110px;
+  color: rgb(23, 23, 21);
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 87.5%;
+}
+
+.catchmebutton {
+  margin-top: 40vw;
+  text-align: center;
+}
+
+.button {
+  background-color: #ffffff;
+  color: rgb(23, 23, 21);
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-family: TTCommonsProEducationalBold;
+  font-size: 32px;
+  cursor: pointer;
+  border: 2px solid #171715;
+  margin: 0px;
+}
+
+.domov5 {
+  width: 13vw;
+  position: absolute;
+  top: 16vw;
+  left: 1vw;
+}
+
+.catcatch {
+  width: 18vw;
+  position: absolute;
+  top: 44vw;
+  left: 0vw;
+}

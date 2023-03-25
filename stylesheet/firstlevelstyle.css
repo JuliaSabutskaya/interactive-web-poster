@@ -1,0 +1,209 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+
+}
+
+.turn {
+  width: 35vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 82vw;
+}
+
+.firstLevel {
+  width: 100%;
+  z-index: -1;
+}
+
+
+.button {
+  background-color: #ffffff;
+  color: rgb(23, 23, 21);
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-family: TTCommonsProEducationalBold;
+  font-size: 32px;
+  cursor: pointer;
+  border: 2px solid #171715;
+  width: 14vw;
+  margin: 0px;
+}
+
+.firstbutton {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+/* eye domov */
+.eye1 {
+  width: 4vw;
+  position: absolute;
+  top: 19vw;
+  left: 3vw;
+  cursor: pointer;
+}
+
+.eye2 {
+  width: 4vw;
+  position: absolute;
+  top: 48vw;
+  left: 31vw;
+  cursor: pointer;
+}
+
+.eye3 {
+  width: 4vw;
+  position: absolute;
+  top: 9vw;
+  left: 48vw;
+  cursor: pointer;
+}
+
+.eye4 {
+  width: 6vw;
+  position: absolute;
+  top: 43vw;
+  right: 22vw;
+  cursor: pointer;
+}
+
+.eye5 {
+  width: 5vw;
+  position: absolute;
+  top: 24vw;
+  right: 4vw;
+  cursor: pointer;
+}
+
+.eye6 {
+  width: 1.7vw;
+  position: absolute;
+  top: 30vw;
+  right: 30vw;
+  cursor: pointer;
+}
+
+/* popup */
+.modal {
+  position: fixed;
+  margin-top: 45px;
+  color: #171715;
+  font-family: "TTTravelsNextEducationalBold";
+  font-size: 45px;
+  line-height: 140%;
+  background-position: 0 0;
+  display: block;
+}
+
+.modal-login {
+  top: 105px;
+  left: 30%;
+  width: 695px;
+  padding: 45vw 75vw;
+  background-color: white;
+  border: 4px solid black;
+}
+
+.modal-close {
+  position: absolute;
+  top: 4px;
+  right: 10px;
+  width: 53px;
+  height: 53px;
+  border: 0;
+  cursor: pointer;
+}
+
+.popup-domov {
+  position: absolute;
+  top: 45px;
+  right: 9px;
+  width: 50%;
+  height: 50%;
+}
+
+.modal-show {
+  display: block;
+}
+
+
+.modal2 {
+  position: fixed;
+  margin-top: 60px;
+  color: #171715;
+  font-family: "TTTravelsNextEducationalBold";
+  font-size: 60px;
+  line-height: 140%;
+  background-position: 0 0;
+  display: block;
+}
+
+.popup-cat {
+  position: absolute;
+  top: 31px;
+  right: 4px;
+  width: 50%;
+  height: 50%;
+}
+
+.none {
+  display: none;
+}
+
+.modal-first {
+  position: fixed;
+  margin-top: 6vw;
+  color: #171715;
+  font-family: "TTTravelsNextEducationalBold";
+  font-size: 4vw;
+  text-align: center;
+  line-height: 150%;
+  background-position: 0 0;
+  display: block;
+}
+
+.modal-login-first {
+  top: 0px;
+  left: 10vw;
+  height: 40vw;
+  width: 80vw;
+  padding: 4vw 7vw;
+  background-color: white;
+  border: 0.3vw solid black;
+}
+
+.button-first {
+  margin-top: 1vw;
+  text-align: center;
+}
+
+.button-letsgo {
+  background-color: #ffffff;
+  color: rgb(23, 23, 21);
+  padding: 0.7vw 0.7vw;
+  text-align: center;
+  text-decoration: none;
+  font-family: TTCommonsProEducationalBold;
+  font-size: 2vw;
+  cursor: pointer;
+  border: 0.19vw solid #171715;
+  margin: 0px;
+}
+
+.popup-domov-first {
+  position: absolute;
+  top: 8vw;
+  right: 23vw;
+  width: 10vw;
+}
+
+.popup-cat-first {
+  position: absolute;
+  top: 28.5vw;
+  left: 0px;
+  width: 6vw;
+}

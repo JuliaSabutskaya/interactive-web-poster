@@ -1,0 +1,70 @@
+@media (min-width: 1023px) and (max-width: 1299px) {
+
+    .button {
+        font-size: 20px;
+        padding: 8px 8px;
+    }
+
+    .botton {
+        background-color: #ffffff;
+        color: rgb(23, 23, 21);
+        padding: 8px 8px;
+        text-align: center;
+        text-decoration: none;
+        font-family: TTCommonsProEducationalBold;
+        font-size: 20px;
+        cursor: pointer;
+        border: 2px solid #171715;
+        margin: 0px;
+    }
+
+    .main-title {
+        font-family: TTTravelsNextEducationalBold;
+        font-size: 85px;
+        color: rgb(23, 23, 21);
+        text-align: center;
+        text-transform: uppercase;
+        line-height: 87.5%;
+    }
+
+    .bbutton {
+        background-color: #ffffff;
+        color: rgb(23, 23, 21);
+        padding: 67px 43px;
+        text-align: center;
+        text-decoration: none;
+        font-family: TTCommonsProEducationalBold;
+        font-size: 30px;
+        cursor: pointer;
+        border: 6px solid #171715;
+        margin: 35px;
+    }
+
+    .domov1 {
+        width: 15vw;
+        position: absolute;
+        top: 14vw;
+        left: 26vw;
+    }
+
+    .domov2 {
+        width: 13vw;
+        position: absolute;
+        top: 33vw;
+        left: 2vw;
+    }
+
+    .domov3 {
+        width: 13vw;
+        position: absolute;
+        top: 18vw;
+        right: 10vw;
+    }
+
+    .cat {
+        width: 15vw;
+        position: absolute;
+        top: 32vw;
+        right: 43vw;
+    }
+}

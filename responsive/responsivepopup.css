@@ -1,0 +1,130 @@
+@media (min-width: 1023px) and (max-width: 1300px) {
+  .modal {
+    position: fixed;
+    margin-top: 45px;
+    color: #171715;
+    font-family: "TTTravelsNextEducationalBold";
+    font-size: 40px;
+    line-height: 140%;
+    background-position: 0 0;
+    display: block;
+  }
+
+  .modal-login {
+    top: 147px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    padding: 27px 41px;
+    background-color: white;
+    border: 3px solid black;
+  }
+
+  .modal-close {
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .popup-domov {
+    position: absolute;
+    top: 25px;
+    right: 13px;
+    width: 50%;
+    height: 50%;
+  }
+
+
+
+
+  .modal2 {
+    position: fixed;
+    margin-top: 45px;
+    color: #171715;
+    font-family: "TTTravelsNextEducationalBold";
+    font-size: 40px;
+    line-height: 140%;
+    background-position: 0 0;
+    display: block;
+  }
+
+  .popup-cat {
+    position: absolute;
+    top: 25px;
+    right: 13px;
+    width: 50%;
+    height: 50%;
+  }
+
+  .none {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1022px) {
+  .modal {
+    position: fixed;
+    margin-top: 45px;
+    color: #171715;
+    font-family: "TTTravelsNextEducationalBold";
+    font-size: 26px;
+    line-height: 140%;
+    background-position: 0 0;
+    display: block;
+  }
+
+  .modal-login {
+    top: 147px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 322px;
+    padding: 27px 41px;
+    background-color: white;
+    border: 3px solid black;
+  }
+
+  .modal-close {
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .popup-domov {
+    position: absolute;
+    top: 17px;
+    right: 13px;
+    width: 50%;
+    height: 50%;
+  }
+
+  .modal2 {
+    position: fixed;
+    margin-top: 45px;
+    color: #171715;
+    font-family: "TTTravelsNextEducationalBold";
+    font-size: 26px;
+    line-height: 140%;
+    background-position: 0 0;
+    display: block;
+  }
+
+  .popup-cat {
+    position: absolute;
+    top: 17px;
+    right: 13px;
+    width: 50%;
+    height: 50%;
+  }
+
+  .none {
+    display: none;
+  }
+}

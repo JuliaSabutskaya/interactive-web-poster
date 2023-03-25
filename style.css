@@ -1,0 +1,23 @@
+@import "./stylesheet/firstlevelstyle.css";
+@import "./stylesheet/secondlevelstyle.css";
+@import "./stylesheet/bonusstyle.css";
+@import "./stylesheet/darkstyle.css";
+@import "./stylesheet/catchmestyle.css";
+/* адаптив */
+@import "./responsive/responsivepopup.css";
+@import "./responsive/1023-1299.css";
+@import "./responsive/1300-1440.css";
+@import "./responsive/768-1022.css";
+@import "./responsive/orientation.css";
+
+
+
+@font-face {
+  font-family: "TTTravelsNextEducationalBold";
+  src: url("./font/TTTravelsNextEducationalBold.ttf");
+}
+
+@font-face {
+  font-family: "TTCommonsProEducationalBold";
+  src: url("./font/TTCommonsProEducationalBold.ttf");
+}

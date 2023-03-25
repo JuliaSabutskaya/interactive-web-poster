@@ -1,0 +1,105 @@
+.darklevelimg {
+  width: 100%;
+  z-index: -1;
+}
+
+.domov4 {
+  width: 6vw;
+  position: absolute;
+  top: 19vw;
+  right: 4vw;
+  cursor: pointer;
+}
+
+.darkbotton {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.botton {
+  background-color: #ffffff;
+  color: rgb(23, 23, 21);
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-family: TTCommonsProEducationalBold;
+  font-size: 32px;
+  cursor: pointer;
+  border: 2px solid #171715;
+  margin: 0px;
+}
+
+.scaredcat {
+  width: 9vw;
+  position: absolute;
+  top: 42vw;
+  left: 28vw;
+  cursor: pointer;
+}
+
+/* popup */
+.modal {
+  position: fixed;
+  margin-top: 60px;
+  color: #171715;
+  font-family: "TTTravelsNextEducationalBold";
+  font-size: 60px;
+  line-height: 140%;
+  background-position: 0 0;
+  display: block;
+}
+
+.modal-login {
+  top: 120px;
+  left: 30%;
+  width: 700px;
+  padding: 50px 80px;
+  background-color: white;
+  border: 4px solid black;
+}
+
+.modal-close {
+  position: absolute;
+  top: 5px;
+  right: 12px;
+  width: 53px;
+  height: 53px;
+  border: 0;
+  cursor: pointer;
+}
+
+.popup-domov {
+  position: absolute;
+  top: 40px;
+  right: 10px;
+  width: 50%;
+  height: 50%;
+}
+
+.modal-show {
+  display: block;
+}
+
+.modal2 {
+  position: fixed;
+  margin-top: 60px;
+  color: #171715;
+  font-family: "TTTravelsNextEducationalBold";
+  font-size: 60px;
+  line-height: 140%;
+  background-position: 0 0;
+  display: block;
+}
+
+.popup-cat {
+  position: absolute;
+  top: 31px;
+  right: 4px;
+  width: 50%;
+  height: 50%;
+}
+
+.none {
+  display: none;
+}

@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    margin: 25px auto;
+}
+
+.main-title {
+    font-family: TTTravelsNextEducationalBold;
+    font-size: 110px;
+    color: rgb(23, 23, 21);
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 87.5%;
+}
+
+
+.bonusbutton {
+    z-index: 1;
+    position: absolute;
+    display: block;
+    top: 29vw;
+    left: 10vw;
+    rotate: -9deg;
+}
+
+.bbutton {
+    background-color: #ffffff;
+    color: rgb(23, 23, 21);
+    padding: 77px 53px;
+    text-align: center;
+    text-decoration: none;
+    font-family: TTCommonsProEducationalBold;
+    font-size: 40px;
+    cursor: pointer;
+    border: 7px solid #171715;
+    margin: 35px;
+}
+
+.domov1 {
+    width: 15vw;
+    position: absolute;
+    top: 14vw;
+    left: 26vw;
+}
+
+.domov2 {
+    width: 13vw;
+    position: absolute;
+    top: 33vw;
+    left: 2vw;
+}
+
+.domov3 {
+    width: 13vw;
+    position: absolute;
+    top: 18vw;
+    right: 3vw;
+}
+
+.cat {
+    z-index: 2;
+    width: 15vw;
+    position: absolute;
+    top: 32vw;
+    right: 43vw;
+}
